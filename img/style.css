@@ -1,0 +1,14 @@
+/***********
+common
+
+************/
+body{
+    font: monospace,sans-serif;
+}
+.font-primary{
+    color:#0cf9f9;
+}
+.title-icon{
+   font: 20px; 
+   font-weight:bold;
+}
