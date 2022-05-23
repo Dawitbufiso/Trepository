@@ -1,0 +1,57 @@
+/***********
+common
+
+************/
+body{
+    font: monospace,sans-serif;
+}
+.font-primary{
+    color:#0cf9f9;
+}
+.title-icon{
+   font: 20px; 
+   font-weight:bold;
+}
+
+p{
+    font-size:14px;
+}
+
+
+/************
+About
+
+**************/
+#about{
+    margin: 60px auto;
+    width: 400px;
+    text-align: center;
+}
+#about img{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+
+}
+#about .vocation{
+font-size:17px;
+color: #000ABA;
+margin-bottom: 10px;
+}
+#about .skills{
+    font-size: 14px;
+    color:#0cf9f9;
+    margin-bottom: 10px;
+}
+#about .email{
+    margin-top: 14px;
+    font: size 20px;
+}
+#about .icons {
+    margin-top: 20px;
+    font-size: 30px;
+}
+#about .icons a {
+    color: rgb(9, 9, 9);
+}
+
